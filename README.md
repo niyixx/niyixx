@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/niyixx/)
+- [Active Directory Home Lab](https://github.com/niyixx/ActiveDirectory/blob/main/README.md)
 
 <h2>📺 Certifications</h2>
 
